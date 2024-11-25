@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/home"
+        android:title="Trang chủ"
+        android:icon="@drawable/ic_home_24"/>
+
+    <item android:id="@+id/home2"
+        android:title="Thông báo"
+        android:icon="@drawable/ic_hexagon_24"/>
+
+    <item android:id="@+id/home3"
+        android:title="Sách"
+        android:icon="@drawable/ic_grade_24"/>
+
+    <item android:id="@+id/profile"
+        android:title="Hồ sơ"
+        android:icon="@drawable/ic_person_24"/>
+
+    <item android:id="@+id/search"
+        android:title="Tìm kiếm"
+        android:icon="@drawable/ic_search_24"/>
+
+
+</menu>
